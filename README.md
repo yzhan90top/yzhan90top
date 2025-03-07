@@ -12,10 +12,5 @@
   
 ---
 
-### 🏆 Achievements & Contributions  
-![GitHub Snake Animation](https://github.com/yzhan90top/yzhan90top/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/阳-张-9302101b4) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/阳-张-9302101b4) 
