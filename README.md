@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I am David Cheung 👋</h1>
+<h1 align="center">Hi there, I am David Zhang 👋</h1>
 
 <p align="center">
-💻 Software Engineer | 🚀 Open Source Enthusiast |
+💻 Software Engineer | 🚀 Open Source Enthusiast 
 </p>
 
 ---
